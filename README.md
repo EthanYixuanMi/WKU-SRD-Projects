@@ -34,7 +34,7 @@ This paper has been accepted to the [International Joint Conference on Neural Ne
 
 #### 2. Enhancing Portfolio Optimization with Data Fusion and Machine Learning in Quantitative Finance (Outstanding Research Award Winner at SRD 2024, Wenzhou-Kean University)
 
-![MLQF](Posters/ML-in-Quantitative-Finance.jpg)
+![MLQF](Posters/ML in Quantitative Finance.jpg)
 
 - **Introduction**: This project aims to revolutionize portfolio optimization in quantitative finance by integrating advanced machine learning techniques and data fusion methodologies.
 - **Key Technologies**:
