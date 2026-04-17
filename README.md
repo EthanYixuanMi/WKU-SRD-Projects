@@ -12,6 +12,9 @@ Project posters are available [here](./Posters).
 ### Current Projects
 
 #### 1. FD-GAN: A Dual-Domain Approach with Fourier Domain Discriminators for Denoising Low-Dose CT Images (Poster Presentation Outstanding Award Winner at SRD 2025, Wenzhou-Kean University)
+
+![FD-GAN](Posters/FD-GAN.jpg)
+
 - **Introduction**: This project addresses the challenge of denoising low-dose CT (LDCT) images, aiming to minimize radiation exposure while preserving diagnostic accuracy. It proposes a novel dual-domain GAN model, FD-GAN, that leverages both spatial and Fourier domains to enhance detail recovery and training stability.
 - **Key Technologies**:
   - Generative Adversarial Networks (GANs)
