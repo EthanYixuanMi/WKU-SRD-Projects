@@ -11,7 +11,32 @@ Project posters are available [here](./Posters).
 
 ### Current Projects
 
-#### 1. FD-GAN: A Dual-Domain Approach with Fourier Domain Discriminators for Denoising Low-Dose CT Images (Poster Presentation Outstanding Award Winner at SRD 2025, Wenzhou-Kean University)
+#### 1. ToM-Driver: Beyond Kinematic Models toward Social Intent Estimation with Theory-of-Mind in Autonomous Driving
+
+![ToM-Driver](Posters/ToM-Driver.jpg)
+
+- **Introduction**: This project explores how autonomous driving systems can better understand the social intentions of surrounding vehicles in complex traffic environments. Inspired by the human cognitive concept of Theory of Mind (ToM), ToM-Driver introduces a large language model-based reasoning framework that enables autonomous agents to infer other drivers’ intentions beyond traditional kinematic prediction.
+- **Key Technologies**:
+  - Theory of Mind (ToM) Reasoning
+  - Autonomous Driving Decision-Making
+  - Large Language Models (LLMs)
+  - Social Intent Estimation
+  - Multi-Agent Driving Scenario Analysis
+  - nuScenes-Based Dataset Construction and Evaluation
+- **Data Source**: nuScenes Autonomous Driving Dataset / nuScenes-ToM Dataset
+- **Research Outcomes**:
+  - Proposed ToM-Driver, a framework that integrates Theory-of-Mind reasoning into autonomous driving systems
+  - Developed an LLM-amortized plausibility estimation workflow to reason about surrounding agents’ possible intentions
+  - Compared ToM-Driver with traditional end-to-end planning and human-like planning methods
+  - Evaluated the framework through open-loop and closed-loop driving experiments
+  - Conducted ablation studies to analyze the contribution of key ToM reasoning components
+  - Demonstrated improved decision-making and safety potential in multi-agent autonomous driving scenarios
+  - Showed strong plausibility and stability on the nuScenes-ToM dataset
+
+This project investigates the potential of cognitive reasoning and large language models for future autonomous driving systems by enabling agents to reason about other vehicles’ hidden intentions.
+
+
+#### 2. FD-GAN: A Dual-Domain Approach with Fourier Domain Discriminators for Denoising Low-Dose CT Images (Poster Presentation Outstanding Award Winner at SRD 2025, Wenzhou-Kean University)
 
 ![FD-GAN](Posters/FD-GAN.jpg)
 
@@ -32,7 +57,7 @@ This paper has been accepted to the [International Joint Conference on Neural Ne
 [Click here to see the paper](https://ieeexplore.ieee.org/document/11228631).
 
 
-#### 2. Enhancing Portfolio Optimization with Data Fusion and Machine Learning in Quantitative Finance (Outstanding Research Award Winner at SRD 2024, Wenzhou-Kean University)
+#### 3. Enhancing Portfolio Optimization with Data Fusion and Machine Learning in Quantitative Finance (Outstanding Research Award Winner at SRD 2024, Wenzhou-Kean University)
 
 
 - **Introduction**: This project aims to revolutionize portfolio optimization in quantitative finance by integrating advanced machine learning techniques and data fusion methodologies.
